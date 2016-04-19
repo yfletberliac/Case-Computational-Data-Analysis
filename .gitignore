@@ -1,1 +1,5 @@
-/befolk_16.csv
+*.csv
+
+*.m
+
+*.pdf
